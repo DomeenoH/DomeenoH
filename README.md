@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=DomeenoH&hide=stars,issues,contribs&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
 
-<!--
-**DomeenoH/DomeenoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 多米诺好强啊！
 
-Here are some ideas to get you started:
+Vlogger・TRPG 云玩家・挣扎存活中  
+讨厌胡萝卜・养了只猫・想去旅拍  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+咳，丢人了，多米诺其实是个脚本小子  
+gayhub主要是用来放一些花里胡哨的东西，比如[主页](https://dominoh.com)之类。
+
+欢迎来我的[博客](https://blog.dominoh.com)和[B站](https://b.dominoh.com)看看！
