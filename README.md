@@ -7,7 +7,8 @@
 Vlogger・TRPG 云玩家・挣扎存活中  
 讨厌胡萝卜・养了只猫・想去旅拍  
 
-咳，丢人了，多米诺其实是个脚本小子  
-gayhub主要是用来放一些花里胡哨的东西，比如[主页](https://dominoh.com)之类。
+咳，丢人了，多米诺只是个脚本小子  
+gayhub主要是用来放一些花里胡哨的东西，  
+比如[主页](https://dominoh.com)之类。
 
 欢迎来我的[博客](https://blog.dominoh.com)和[B站](https://b.dominoh.com)看看！
