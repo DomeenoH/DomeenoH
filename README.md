@@ -3,7 +3,7 @@
 </a>
 
 ### 多米诺好强啊！
-
+![](https://komarev.com/ghpvc/?username=DomeenoH&color=blue)  
 Vlogger・TRPG 云玩家・挣扎存活中  
 讨厌胡萝卜・养了只猫・想去旅拍  
 
