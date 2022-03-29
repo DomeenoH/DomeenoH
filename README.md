@@ -15,3 +15,21 @@ gayhub主要是用来放一些花里胡哨的东西，
 欢迎来我的[博客](https://blog.dominoh.com)和[B站](https://b.dominoh.com)看看！  
 
 ![](https://komarev.com/ghpvc/?username=DomeenoH&color=blue)  <img src="https://bilistats.lonelyion.com/followers?uid=3596837&style=flat" alt="B站粉丝"/>  
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
+
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+<!-- steam-box end -->
+
+
+</td>
+</tr>
+</table>
