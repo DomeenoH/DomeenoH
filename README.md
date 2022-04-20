@@ -35,13 +35,7 @@ HTML       🕓 6m  █▊░░░░░░░░░░░░░░░░░░
 </td>
 <td valign="top" width="50%">
 
-<!-- steam-box start -->
-#### <a href="https://gist.github.com/080ab6477d6ddc9214d982883354d76b" target="_blank">🎮 最近我在玩…</a>
-```text
-🚫 啊哦，最近好像没有玩过游戏呢
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+
 
 
 </td>
