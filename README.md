@@ -19,9 +19,7 @@ gayhub主要是用来放一些花里胡哨的东西，
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/698c355a33c0215c53843338cfe8b523" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Markdown 🕓 12m ████████████████████▉░░░░░░░░░░░ 65.4%
-YAML     🕓 5m  ████████▍░░░░░░░░░░░░░░░░░░░░░░░ 26.4%
-EJS      🕓 1m  ██▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  8.2%
+Markdown 🕓 12m ████████████████████████████████100.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
