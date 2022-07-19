@@ -16,6 +16,10 @@ gayhub主要是用来放一些花里胡哨的东西，
 
 ![](https://komarev.com/ghpvc/?username=DomeenoH&color=blue)  <img src="https://bilistats.lonelyion.com/followers?uid=3596837&style=flat" alt="B站粉丝"/>  
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/698c355a33c0215c53843338cfe8b523" target="_blank">📊 Weekly development breakdown</a>
 ```text
@@ -28,6 +32,9 @@ Gettext Catalog 🕓 5m  ▉░░░░░░░░░░░░░░░░░�
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
+</td>
+<td valign="top" width="50%">
+
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/c03c8ab8f8246e4fcabb6cf8807a4512" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
@@ -39,3 +46,6 @@ Gettext Catalog 🕓 5m  ▉░░░░░░░░░░░░░░░░░�
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+</td>
+</tr>
+</table>
