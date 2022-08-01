@@ -39,7 +39,7 @@ JSON       🕓 6m  █▎░░░░░░░░░░░░░░░░░░
 #### <a href="https://gist.github.com/c03c8ab8f8246e4fcabb6cf8807a4512" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Tom Clancy's Rainbow Six Siege   🕘 1267 hrs 6 mins
-🚓 Grand Theft Auto V               🕘 508 hrs 57 mins
+🚓 Grand Theft Auto V               🕘 509 hrs 57 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 400 hrs 24 mins
 🎮 SteamVR                          🕘 250 hrs 54 mins
 🎮 Warframe                         🕘 127 hrs 2 mins
