@@ -41,8 +41,8 @@ JSON       🕓 6m  █▎░░░░░░░░░░░░░░░░░░
 🔫 Tom Clancy's Rainbow Six Siege   🕘 1267 hrs 22 mins
 🚓 Grand Theft Auto V               🕘 522 hrs 51 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 400 hrs 24 mins
-🎮 SteamVR                          🕘 250 hrs 54 mins
 🎮 Warframe                         🕘 127 hrs 2 mins
+🎮 PAYDAY 2                         🕘 121 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
