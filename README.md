@@ -38,10 +38,10 @@ JSON       🕓 6m  █▎░░░░░░░░░░░░░░░░░░
  <!-- steam-box start -->
 #### <a href="https://gist.github.com/c03c8ab8f8246e4fcabb6cf8807a4512" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 1276 hrs 49 mins
+🔫 Tom Clancy's Rainbow Six Siege   🕘 1277 hrs 22 mins
 🚓 Grand Theft Auto V               🕘 523 hrs 3 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 400 hrs 24 mins
-🎮 Red Dead Redemption 2            🕘 134 hrs 14 mins
+🎮 Red Dead Redemption 2            🕘 134 hrs 17 mins
 🎮 Warframe                         🕘 127 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
