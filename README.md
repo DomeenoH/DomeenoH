@@ -42,7 +42,7 @@ JSON       🕓 6m  █▎░░░░░░░░░░░░░░░░░░
 🚓 Grand Theft Auto V               🕘 523 hrs 3 mins
 🍳 PUBG: BATTLEGROUNDS              🕘 400 hrs 24 mins
 🎮 Red Dead Redemption 2            🕘 159 hrs 3 mins
-🎮 Divinity: Original Sin 2         🕘 131 hrs 12 mins
+🎮 Divinity: Original Sin 2         🕘 131 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
