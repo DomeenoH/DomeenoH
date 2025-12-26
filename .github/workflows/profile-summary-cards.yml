@@ -28,7 +28,7 @@ jobs:
                   git add profile-summary-card-output
                   # Check if there are changes
                   if git diff --staged --quiet; then
-                    print('No changes to commit')
+                    echo "No changes to commit"
                   else
                     git commit -m "chore: update profile summary cards"
                     git pull --rebase
