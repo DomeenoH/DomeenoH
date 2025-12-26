@@ -97,5 +97,5 @@
 <p align="center">
   <sub>Thanks for visiting!</sub><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DomeenoH.DomeenoH" alt="visitors"/>
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=DomeenoH&theme=dark" alt="visitors by country"/>
+
 </p>
