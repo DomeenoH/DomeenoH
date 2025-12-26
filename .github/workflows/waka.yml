@@ -11,6 +11,8 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@ebb9e39b510045d5044c4453bf4708adcdfbfd8e
