@@ -4,7 +4,7 @@
   
   <!-- Typing SVG: Dynamic Intro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=%E5%A4%9A%E7%B1%B3%E8%AF%BA+%2F+DomeenoH+%C2%B7+%F0%9F%8E%A5+%E7%9F%AD%E7%89%87UP%E4%B8%BB+%C2%B7+%F0%9F%8E%B2+TRPG%E5%AE%88%E5%AF%86%E4%BA%BA;%F0%9F%90%88+%E9%93%B2%E5%B1%8E%E5%AE%98+%C2%B7+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88+%E6%81%8B%E7%88%B1%E4%B8%AD+%C2%B7+%F0%9F%90%BE+%E5%85%BD%E5%9C%88%E8%BE%B9%E7%BC%98%E5%BE%98%E5%BE%8A;%F0%9F%8D%9D+%E9%A3%9E%E5%A4%A9%E6%84%8F%E9%9D%A2%E7%A5%9E%E6%95%99%E7%89%A7%E5%B8%88+%C2%B7+%F0%9F%8F%9A+%E8%87%AA%E9%A9%BE%E5%8E%BB%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9;%E2%9C%89%EF%B8%8F+Every+good+story+starts+with+a+letter." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=336699&center=true&vCenter=true&width=600&lines=%E5%A4%9A%E7%B1%B3%E8%AF%BA+%2F+DomeenoH+%C2%B7+%F0%9F%8E%A5+%E7%9F%AD%E7%89%87UP%E4%B8%BB+%C2%B7+%F0%9F%8E%B2+TRPG%E5%AE%88%E5%AF%86%E4%BA%BA;%F0%9F%90%88+%E9%93%B2%E5%B1%8E%E5%AE%98+%C2%B7+%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88+%E6%81%8B%E7%88%B1%E4%B8%AD+%C2%B7+%F0%9F%90%BE+%E5%85%BD%E5%9C%88%E8%BE%B9%E7%BC%98%E5%BE%98%E5%BE%8A;%F0%9F%8D%9D+%E9%A3%9E%E5%A4%A9%E6%84%8F%E9%9D%A2%E7%A5%9E%E6%95%99%E7%89%A7%E5%B8%88+%C2%B7+%F0%9F%8F%9A+%E8%87%AA%E9%A9%BE%E5%8E%BB%E5%BA%9F%E5%A2%9F%E6%8E%A2%E9%99%A9;%E2%9C%89%EF%B8%8F+Every+good+story+starts+with+a+letter." alt="Typing SVG" />
   </a>
 </div>
 
