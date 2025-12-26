@@ -2,7 +2,7 @@ name: Quote Readme
 
 on:
     schedule:
-        - cron: "0 0 * * *" # Every day at midnight
+        - cron: "10 0 * * *" # Every day at 00:10
     workflow_dispatch:
 
 jobs:
