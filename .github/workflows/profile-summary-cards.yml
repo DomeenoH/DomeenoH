@@ -1,0 +1,25 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+    schedule: # execute every 24 hours
+        - cron: "* */24 * * *"
+    workflow_dispatch:
+
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        name: generate-github-profile-summary-cards
+        permissions:
+            contents: write
+
+        steps:
+            - uses: actions/checkout@v4
+            - uses: vn7n24fzkq/github-profile-summary-cards@release
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+              with:
+                  USERNAME: ${{ github.repository_owner }}
+                  # OPTIONS: "lite, dark, github, github-dark, 2077, solarized_light, solarized_dark, radical, onedark, kimbie_dark, gruvbox, gruvbox_light"
+                  # Using 'transparent' is not supported by this action directly in the same way, but 'github-dark' or 'onedark' usually looks good on dark profiles.
+                  # Let's try 'github-dark' as a safe default.
+                  THEME: github-dark

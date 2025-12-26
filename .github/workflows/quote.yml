@@ -1,0 +1,24 @@
+name: Quote Readme
+
+on:
+    schedule:
+        - cron: "0 0 * * *" # Every day at midnight
+    workflow_dispatch:
+
+jobs:
+    update-readme:
+        name: Update Quote in README
+        runs-on: ubuntu-latest
+        permissions:
+            contents: write
+
+        steps:
+            - uses: actions/checkout@v4
+
+            - uses: LyoSU/quote-readme@v1
+              with:
+                  mode: "overwrite" # Overwrite the specific section
+                  default_quote: "Talk is cheap. Show me the code."
+                  max_length: 100
+              env:
+                  GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
