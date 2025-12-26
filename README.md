@@ -76,7 +76,7 @@
 
 <!-- Quote -->
 <div align="center">
-  <h3>🤔 Daily Wisdom</h3>
+  <h3>🤔 Daily Dose</h3>
   
   <i>“相信十年后的八月，我们还会相遇。 —— 《未闻花名》”</i>
   
@@ -100,7 +100,7 @@
 
 <!-- Footer & Visitor Counter -->
 <p align="center">
-  <sub>Thanks for visiting!</sub><br/>
+  <sub>Thanks for visiting!</sub><br/><br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DomeenoH.DomeenoH" alt="visitors"/>
 
 </p>
