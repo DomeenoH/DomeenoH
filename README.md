@@ -37,7 +37,7 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Powered%20by-ChatGPT%20%7C%20Claude%20%7C%20Copilot-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" />
+    <img src="https://img.shields.io/badge/Powered%20by-Antigravity%20%7C%20Gemini%20%7C%20ChatGPT-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="AI Powered" />
   </p>
 
   <br/>
