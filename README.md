@@ -30,11 +30,14 @@
 <div align="center">
 
   <!-- Skills Cloud -->
-  <h4>主力技(jie)术(cao)栈：</h4>
+  <h4>⚡ Creative Workflow:</h4>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,git,vscode,md,figma&theme=light" />
+      <img src="https://skillicons.dev/icons?i=vscode,notion,figma,pr,ae,ps,ai,github&theme=light" alt="Creative Stack"/>
     </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Powered%20by-ChatGPT%20%7C%20Claude%20%7C%20Copilot-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered" />
   </p>
 
   <br/>
