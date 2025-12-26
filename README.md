@@ -72,9 +72,9 @@
 <!-- Quote -->
 <div align="center">
   <h3>🤔 Daily Wisdom</h3>
-  <!-- QUOTE:START -->
-  <i>“Talk is cheap. Show me the code.”</i>
-  <!-- QUOTE:END -->
+  
+  <i>“相信十年后的八月，我们还会相遇。 —— 《未闻花名》”</i>
+  
 </div>
 
 <br/>
