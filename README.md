@@ -1,51 +1,102 @@
-<a href="#">
-<!--<img align="right" src="https://github-readme-stats.vercel.app/api?username=DomeenoH&hide=stars,issues,contribs&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">-->
-<img align="right" src="https://stats.justsong.cn/api/bilibili/?id=3596837">
-</a>
- 
-### 多米诺好强啊！
+<!-- Header & Intro -->
+<div align="center">
+  <h3>Hey, I'm Domino! 👋</h3>
+  
+  <!-- Typing SVG: Dynamic Intro -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=%E5%A4%9A%E7%B1%B3%E8%AF%BA+%2F+DomeenoH+%C2%B7+%E5%89%8D%E7%AB%AF%E6%89%93%E5%B7%A5%E4%BA%BA+%F0%9F%9A%80;%E6%8A%98%E8%85%BE%E7%88%B1%E5%A5%BD%E8%80%85+%2F+%E4%BB%8A%E5%A4%A9%E5%8F%88%E5%9C%A8%E5%86%99%E5%B0%8F%E8%84%9A%E6%9C%AC+%E2%9C%8D%EF%B8%8F;%E9%9D%9E%E8%91%97%E5%90%8D+Vlogger+%C2%B7+%E5%9C%A8%E7%BA%BFTRPG%E4%BA%91%E7%8E%A9%E5%AE%B6" alt="Typing SVG" />
+  </a>
+</div>
 
-Vlogger・TRPG 云玩家・挣扎存活中  
-讨厌胡萝卜・养了只猫・想去旅拍  
+<div align="center">
+  <p>
+    🎥 Vlogger · 🎲 TRPG 云玩家 · 🐱 铲屎官 (喜欢猫咪胜过bug) · 🥕 拒绝胡萝卜<br>
+    咳，又菜又爱玩，写代码只是摸鱼副业。<br>
+    平时拿 GayHub 当展示柜，放一些自认为很酷炫的小玩意儿。<br>
+    梦想有朝一日背着相机环球旅行 🌏。
+  </p>
 
-咳，丢人了，多米诺只是个脚本小子  
-gayhub主要是用来放一些花里胡哨的东西，  
-比如[主页](https://dominoh.com)之类。
+  <!-- Social Badges -->
+  <a href="https://dominoh.com"><img src="https://img.shields.io/badge/Website-dominoh.com-000?style=flat&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://blog.dominoh.com"><img src="https://img.shields.io/badge/Blog-dominoh.com-000?style=flat&logo=Hexo&logoColor=white" alt="Blog"/></a>
+  <a href="https://b.dominoh.com"><img src="https://img.shields.io/badge/B%E7%AB%99-%E5%A4%9A%E7%B1%B3%E8%AF%BA%E5%A5%BD%E5%BC%BA%E5%95%8A-FB7299?style=flat&logo=Bilibili&logoColor=white" alt="多米诺好强啊"/></a>
+</div>
 
-欢迎来我的[博客](https://blog.dominoh.com)和[B站](https://b.dominoh.com)看看！  
+<hr/>
 
-![](https://komarev.com/ghpvc/?username=DomeenoH&color=blue)  <img src="https://bilistats.lonelyion.com/followers?uid=3596837&style=flat" alt="B站粉丝"/>  
+<!-- Tech Stack & Stats -->
+## 🚀 Tech Stack & Stats
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-<!-- waka-box start -->
-#### <a href="https://gist.github.com/698c355a33c0215c53843338cfe8b523" target="_blank">📊 Weekly development breakdown</a>
-```text
-Markdown   🕓 53m ██████████░░░░░░░░░░░░░░░░░░░░ 33.7%
-JavaScript 🕓 51m █████████▉░░░░░░░░░░░░░░░░░░░░ 32.9%
-YAML       🕓 33m ██████▍░░░░░░░░░░░░░░░░░░░░░░░ 21.5%
-Git        🕓 7m  █▍░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.9%
-JSON       🕓 6m  █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
-```
-<!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
-<!-- waka-box end -->
+  <!-- Skills Cloud -->
+  <h4>主力技(jie)术(cao)栈：</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,react,vue,nodejs,git,vscode,md,figma&theme=light" />
+    </a>
+  </p>
 
-</td>
-<td valign="top" width="50%">
+  <br/>
 
- <!-- steam-box start -->
-#### <a href="https://gist.github.com/c03c8ab8f8246e4fcabb6cf8807a4512" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-🔫 Tom Clancy's Rainbow Six Siege   🕘 1302 hrs 8 mins
-🚓 Grand Theft Auto V               🕘 523 hrs 3 mins
-🍳 PUBG: BATTLEGROUNDS              🕘 400 hrs 24 mins
-🎮 Red Dead Redemption 2            🕘 159 hrs 24 mins
-🎮 Divinity: Original Sin 2         🕘 136 hrs 2 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
-</td>
-</tr>
-</table>
+  <!-- GitHub Stats & Top Langs -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DomeenoH&show_icons=true&theme=transparent&include_all_commits=true" alt="DomeenoH's GitHub stats" width="400" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DomeenoH&layout=donut&theme=transparent&hide_progress=true" alt="Top Langs" width="365" />
+  </a>
+  <p><i>(Left: GitHub Stats · Right: Most Used Languages)</i></p>
+
+</div>
+
+<!-- Projects -->
+## 📌 Featured Projects
+
+
+
+- **[FundStack](https://github.com/DomeenoH/FundStack)**: 💰 The next generation of sponsorship. 下一代赞助平台（大概）。
+- **[Match-Score](https://github.com/DomeenoH/Match-Score)**: 💘 通过 50 个维度的深度扫描，计算你们灵魂的深度契合距离。因为太准了所以至今没人敢测。
+- **[nevergonnagiveyouup](https://github.com/DomeenoH/nevergonnagiveyouup)**: 🎵 经典咏流传，点进去的人都哭了。
+
+<!-- Activity & Fun -->
+## 📊 Activity & Fun Stuff
+
+<!-- WakaTime Card -->
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DomeenoH&theme=transparent&layout=compact" alt="WakaTime Stats" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Quote -->
+<div align="center">
+  <br/>
+  <a href="https://github.com/PiyushSuthar/github-readme-quotes">
+    <img src="https://github-readme-quotes.herokuapp.com/quote.svg?theme=light" alt="Random Quote" />
+  </a>
+  <br/>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <b>我的贡献动态：</b>小蛇吃格子，全年无休 🐍
+  <br/>
+  <!-- Note: The snake image needs the snake workflow to run first to generate the file in the output branch -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DomeenoH/DomeenoH/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DomeenoH/DomeenoH/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DomeenoH/DomeenoH/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<!-- Footer & Visitor Counter -->
+<p align="center">
+  <sub>Thanks for visiting!</sub><br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DomeenoH.DomeenoH" alt="visitors"/>
+  <img src="https://github-visitor-counter-tau.vercel.app/api?username=DomeenoH" alt="visitors by country"/>
+</p>
