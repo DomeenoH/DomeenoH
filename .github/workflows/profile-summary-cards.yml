@@ -19,7 +19,18 @@ jobs:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
                   USERNAME: ${{ github.repository_owner }}
-                  # OPTIONS: "lite, dark, github, github-dark, 2077, solarized_light, solarized_dark, radical, onedark, kimbie_dark, gruvbox, gruvbox_light"
-                  # Using 'transparent' is not supported by this action directly in the same way, but 'github-dark' or 'onedark' usually looks good on dark profiles.
-                  # Let's try 'github-dark' as a safe default.
-                  THEME: github-dark
+                  AUTO_PUSH: false
+
+            - name: Push new cards
+              run: |
+                  git config --global user.name 'github-actions[bot]'
+                  git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+                  git add profile-summary-card-output
+                  # Check if there are changes
+                  if git diff --staged --quiet; then
+                    print('No changes to commit')
+                  else
+                    git commit -m "chore: update profile summary cards"
+                    git pull --rebase
+                    git push
+                  fi
