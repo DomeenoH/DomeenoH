@@ -13,77 +13,77 @@ jobs:
             contents: write
 
         steps:
-      - uses: actions/checkout@v4
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
+            - uses: actions/checkout@v4
 
-      - name: Update Quote
-        run: |
-          pip install requests
-          python -c "
-          import requests
-          import re
-          import os
-          
-          def get_quote():
-              try:
-                  # c=a (Anime), c=d (Literature), c=i (Poetry), c=k (Philosophy)
-                  url = 'https://v1.hitokoto.cn/?c=a&c=d&c=i&c=k&encode=json&charset=utf-8'
-                  r = requests.get(url, timeout=10)
-                  if r.status_code == 200:
-                      data = r.json()
-                      content = data.get('hitokoto', '')
-                      from_who = data.get('from_who', '')
-                      from_work = data.get('from', '')
-                      
-                      source = ''
-                      if from_who and from_work:
-                          source = f'—— {from_who} 《{from_work}》'
-                      elif from_who:
-                          source = f'—— {from_who}'
-                      elif from_work:
-                          source = f'—— 《{from_work}》'
-                      
-                      return f'{content} {source}'
-                  return 'Talk is cheap. Show me the code. — Linus Torvalds'
-              except:
-                  return 'Talk is cheap. Show me the code. — Linus Torvalds'
+            - name: Set up Python
+              uses: actions/setup-python@v4
+              with:
+                  python-version: "3.x"
 
-          quote = get_quote()
-          print(f'Fetched quote: {quote}')
-          
-          readme_path = 'README.md'
-          with open(readme_path, 'r', encoding='utf-8') as f:
-              content = f.read()
-          
-          # Regex to find content between <!-- QUOTE:START --> and <!-- QUOTE:END -->
-          # We use <i>...</i> wrapper as per the current README format
-          pattern = r'(<!-- QUOTE:START -->)([\s\S]*?)(<!-- QUOTE:END -->)'
-          replacement = f'\\1\n  <i>“{quote}”</i>\n  \\3'
-          
-          new_content = re.sub(pattern, replacement, content)
-          
-          if new_content != content:
-              with open(readme_path, 'w', encoding='utf-8') as f:
-                  f.write(new_content)
-              print('README updated.')
-          else:
-              print('No changes or tag not found.')
-          "
-          
-      - name: Commit and Push
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add README.md
-          # Check if there are changes
-          if git diff --staged --quiet; then
-            print('No changes to commit')
-          else
-            git commit -m "docs: update daily quote"
-            git pull --rebase
-            git push
-          fi
+            - name: Update Quote
+              run: |
+                  pip install requests
+                  python -c "
+                  import requests
+                  import re
+                  import os
+
+                  def get_quote():
+                      try:
+                          # c=a (Anime), c=d (Literature), c=i (Poetry), c=k (Philosophy)
+                          url = 'https://v1.hitokoto.cn/?c=a&c=d&c=i&c=k&encode=json&charset=utf-8'
+                          r = requests.get(url, timeout=10)
+                          if r.status_code == 200:
+                              data = r.json()
+                              content = data.get('hitokoto', '')
+                              from_who = data.get('from_who', '')
+                              from_work = data.get('from', '')
+                              
+                              source = ''
+                              if from_who and from_work:
+                                  source = f'—— {from_who} 《{from_work}》'
+                              elif from_who:
+                                  source = f'—— {from_who}'
+                              elif from_work:
+                                  source = f'—— 《{from_work}》'
+                              
+                              return f'{content} {source}'
+                          return 'Talk is cheap. Show me the code. — Linus Torvalds'
+                      except:
+                          return 'Talk is cheap. Show me the code. — Linus Torvalds'
+
+                  quote = get_quote()
+                  print(f'Fetched quote: {quote}')
+
+                  readme_path = 'README.md'
+                  with open(readme_path, 'r', encoding='utf-8') as f:
+                      content = f.read()
+
+                  # Regex to find content between <!-- QUOTE:START --> and <!-- QUOTE:END -->
+                  # We use <i>...</i> wrapper as per the current README format
+                  pattern = r'(<!-- QUOTE:START -->)([\s\S]*?)(<!-- QUOTE:END -->)'
+                  replacement = f'\\1\n  <i>“{quote}”</i>\n  \\3'
+
+                  new_content = re.sub(pattern, replacement, content)
+
+                  if new_content != content:
+                      with open(readme_path, 'w', encoding='utf-8') as f:
+                          f.write(new_content)
+                      print('README updated.')
+                  else:
+                      print('No changes or tag not found.')
+                  "
+
+            - name: Commit and Push
+              run: |
+                  git config --global user.name 'github-actions[bot]'
+                  git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+                  git add README.md
+                  # Check if there are changes
+                  if git diff --staged --quiet; then
+                    print('No changes to commit')
+                  else
+                    git commit -m "docs: update daily quote"
+                    git pull --rebase
+                    git push
+                  fi
