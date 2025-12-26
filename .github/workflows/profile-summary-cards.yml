@@ -38,6 +38,9 @@ jobs:
                   find profile-summary-card-output -type f -name "*.svg" -print0 | xargs -0 sed -i 's/Contributed to:/参与项目:/g'
 
                   find profile-summary-card-output -type f -name "*.svg" -print0 | xargs -0 sed -i 's/Top Languages by Commit/常用语言 (按提交)/g'
+                  find profile-summary-card-output -type f -name "*.svg" -print0 | xargs -0 sed -i 's/Top Languages by Repo/常用语言 (按仓库)/g'
+                  find profile-summary-card-output -type f -name "*.svg" -print0 | xargs -0 sed -i 's/Commits (UTC +0.00)/提交活跃时间分布 (UTC)/g'
+                  find profile-summary-card-output -type f -name "*.svg" -print0 | xargs -0 sed -i 's/per day hour/每小时平均提交/g'
 
             - name: Push new cards
               run: |
