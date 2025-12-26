@@ -81,7 +81,7 @@
 
 <!-- Snake Animation -->
 <div align="center">
-  <b>我的贡献动态：</b>小蛇吃格子，全年无休 🐍
+  <b>我的贡献动态：</b>小蛇吃格子，间歇性营业 🐍
   <br/>
   <!-- Note: The snake image needs the snake workflow to run first to generate the file in the output branch -->
   <picture>
