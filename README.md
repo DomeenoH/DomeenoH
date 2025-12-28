@@ -70,6 +70,10 @@
 <div align="center">
 <!-- waka-readme-stats:start -->
 <!-- waka-readme-stats:end -->
+
+### ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 </div>
 
 <br/>
