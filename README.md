@@ -68,7 +68,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
