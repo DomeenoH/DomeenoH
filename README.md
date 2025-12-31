@@ -66,9 +66,7 @@
 <!-- Activity & Fun -->
 ## 📊 Activity & Fun Stuff
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
@@ -132,9 +130,6 @@ Astro                    1 repo              ░░░░░░░░░░░�
  Last Updated on 31/12/2025 07:04:35 UTC
 <!--END_SECTION:waka-->
 
-</td>
-<td width="50%" valign="top">
-
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [也许我只是个 Prompt 工程师：被 AI 拖着走的咖啡车开发实录](https://blog.dominoh.com/1ff6f00f.html)
@@ -143,10 +138,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 - [像猫一样相爱：论高独立人格的舒适区](https://blog.dominoh.com/2dd7928.html)
 - [我的审美洁癖：是如何把朋友一个个"清理"出局的](https://blog.dominoh.com/d7fe0211.html)
 <!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
