@@ -62,7 +62,7 @@ jobs:
                   # Regex to find content between <!-- QUOTE:START --> and <!-- QUOTE:END -->
                   # We use <i>...</i> wrapper as per the current README format
                   pattern = r'(<!-- QUOTE:START -->)([\s\S]*?)(<!-- QUOTE:END -->)'
-                  replacement = f'\\1\n  <i>“{quote}”</i>\n  \\3'
+                  replacement = r'\1' + f'\n  <i>"{quote}"</i>\n  ' + r'\3'
 
                   new_content = re.sub(pattern, replacement, content)
 
