@@ -66,8 +66,11 @@
 <!-- Activity & Fun -->
 ## 📊 Activity & Fun Stuff
 
-<!-- WakaTime Card -->
-<div align="center">
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2017%20mins-blue)
 
@@ -129,15 +132,21 @@ Astro                    1 repo              ░░░░░░░░░░░�
  Last Updated on 31/12/2025 06:56:02 UTC
 <!--END_SECTION:waka-->
 
+</td>
+<td width="40%" valign="top">
+
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [也许我只是个 Prompt 工程师：被 AI 拖着走的咖啡车开发实录](https://blog.dominoh.com/1ff6f00f.html)
 - [容纳世界的噪音](https://blog.dominoh.com/68859030.html)
-- [在幸福的边缘长大：我是父母爱情的“旁观者”](https://blog.dominoh.com/94dbfc8f.html)
+- [在幸福的边缘长大：我是父母爱情的"旁观者"](https://blog.dominoh.com/94dbfc8f.html)
 - [像猫一样相爱：论高独立人格的舒适区](https://blog.dominoh.com/2dd7928.html)
-- [我的审美洁癖：是如何把朋友一个个“清理”出局的](https://blog.dominoh.com/d7fe0211.html)
+- [我的审美洁癖：是如何把朋友一个个"清理"出局的](https://blog.dominoh.com/d7fe0211.html)
 <!-- BLOG-POST-LIST:END -->
-</div>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
