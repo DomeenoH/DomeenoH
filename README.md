@@ -128,9 +128,9 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <!-- Quote -->
 <div align="center">
   <h3>🤔 Daily Dose</h3>
-  
+  <!-- QUOTE:START -->
   <i>“相信十年后的八月，我们还会相遇。 —— 《未闻花名》”</i>
-  
+  <!-- QUOTE:END -->
 </div>
 
 <br/>
