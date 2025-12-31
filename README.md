@@ -68,8 +68,8 @@
 
 <!-- WakaTime Card -->
 <div align="center">
-<!-- waka-readme-stats:start -->
-<!-- waka-readme-stats:end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
