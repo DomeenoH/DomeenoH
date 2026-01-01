@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>“那些听不见音乐的人认为那些跳舞的人疯了。 —— 亨利·柏格森 《笑：论滑稽的意义》”</i>
+  <i>给岁月以文明，而不是给文明以岁月。 —— 《三体》</i>
   <!-- QUOTE:END -->
 </div>
 
