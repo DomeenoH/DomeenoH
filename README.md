@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>给岁月以文明，而不是给文明以岁月。 —— 《三体》</i>
+  <i>童年啊，是梦中的真，是真中的梦，是回忆时含泪的微笑。 —— 《繁星春水》</i>
   <!-- QUOTE:END -->
 </div>
 
