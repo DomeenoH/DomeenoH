@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>童年啊，是梦中的真，是真中的梦，是回忆时含泪的微笑。 —— 《繁星春水》</i>
+  <i>天不生我李淳罡，剑道万古长如夜。 —— 《烽火戏诸侯》</i>
   <!-- QUOTE:END -->
 </div>
 
