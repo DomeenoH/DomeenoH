@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>天不生我李淳罡，剑道万古长如夜。 —— 《烽火戏诸侯》</i>
+  <i>慈母手中线，游子身上衣。 —— 孟郊 《游子吟 / 迎母漂上作》</i>
   <!-- QUOTE:END -->
 </div>
 
