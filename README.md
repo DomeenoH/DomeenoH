@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我见青山多妩媚，料青山见我应如是。 —— 辛弃疾 《贺新郎·甚矣吾衰矣》</i>
+  <i>仰天大笑出门去，我辈岂是蓬蒿人。 —— 李白 《南陵别儿童入京》</i>
   <!-- QUOTE:END -->
 </div>
 
