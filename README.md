@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>仰天大笑出门去，我辈岂是蓬蒿人。 —— 李白 《南陵别儿童入京》</i>
+  <i>自己不经意的一句话，触动了别人的心。 —— 近藤正己 《恋如雨止》</i>
   <!-- QUOTE:END -->
 </div>
 
