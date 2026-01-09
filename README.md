@@ -123,7 +123,7 @@ Text                     22 mins             █░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>自己不经意的一句话，触动了别人的心。 —— 近藤正己 《恋如雨止》</i>
+  <i>煩い！煩い！煩い！ —— 《灼眼的夏娜》</i>
   <!-- QUOTE:END -->
 </div>
 
