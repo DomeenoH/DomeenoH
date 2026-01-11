@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>很多事只是最初看起来有意义，但经过多次重复就慢慢失去了意义。 —— 叔本华 《人生的智慧》</i>
+  <i>我心伤悲，莫知我哀！ —— 佚名 《采薇》</i>
   <!-- QUOTE:END -->
 </div>
 
