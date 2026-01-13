@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>恶鬼缠身！ —— 《斩！赤红之瞳》</i>
+  <i>我乃死，我乃生。我为暗，我亦为光。 —— 《脑叶公司》</i>
   <!-- QUOTE:END -->
 </div>
 
