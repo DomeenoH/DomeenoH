@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我乃死，我乃生。我为暗，我亦为光。 —— 《脑叶公司》</i>
+  <i>愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者的话…… —— 鲁迅 《新青年》</i>
   <!-- QUOTE:END -->
 </div>
 
