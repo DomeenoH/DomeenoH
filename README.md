@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>易求无价宝，难得有心郎。 —— 鱼玄机 《赠邻女 / 寄李亿员外》</i>
+  <i>早知如此绊人心，何如当初莫相识。 —— 李白 《秋风词》</i>
   <!-- QUOTE:END -->
 </div>
 
