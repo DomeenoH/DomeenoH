@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>早知如此绊人心，何如当初莫相识。 —— 李白 《秋风词》</i>
+  <i>哲学的基本问题是思维和存在的关系问题。 —— 《哲学的基本问题》</i>
   <!-- QUOTE:END -->
 </div>
 
