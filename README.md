@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>人生用特写镜头来看是悲剧，长镜头来看则是喜剧。 —— 卓别林 《名人名言》</i>
+  <i>同是天涯沦落人，相逢何必曾相识！ —— 白居易 《琵琶行 / 琵琶引》</i>
   <!-- QUOTE:END -->
 </div>
 
