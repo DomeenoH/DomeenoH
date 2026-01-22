@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>长阶血未尽，那是他带你回家的路啊…… —— 肉包不吃肉 《二哈和他的白猫师尊》</i>
+  <i>白羽哀婉不容于天空之湛蓝、亦不容于海之绀碧。 —— 西园美鱼 《Little busters》</i>
   <!-- QUOTE:END -->
 </div>
 
