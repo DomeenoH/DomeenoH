@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>白羽哀婉不容于天空之湛蓝、亦不容于海之绀碧。 —— 西园美鱼 《Little busters》</i>
+  <i>春天是胖次的季节。 —— 《电器街漫画店》</i>
   <!-- QUOTE:END -->
 </div>
 
