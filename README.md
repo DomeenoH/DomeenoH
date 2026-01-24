@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>春天是胖次的季节。 —— 《电器街漫画店》</i>
+  <i>寒夜客来茶当酒，竹炉汤沸火初红。 —— 杜耒 《寒夜》</i>
   <!-- QUOTE:END -->
 </div>
 
