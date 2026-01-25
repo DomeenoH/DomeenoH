@@ -123,7 +123,7 @@ JavaScript               21 mins             █░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>寒夜客来茶当酒，竹炉汤沸火初红。 —— 杜耒 《寒夜》</i>
+  <i>人生而自由，却无往不在枷锁中。 —— 卢梭 《社会契约论》</i>
   <!-- QUOTE:END -->
 </div>
 
