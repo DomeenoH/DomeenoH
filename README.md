@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>人生而自由，却无往不在枷锁中。 —— 卢梭 《社会契约论》</i>
+  <i>吾尝终日不食，终夜不寝，以思无益，不如学也。 —— 孔子 《论语》</i>
   <!-- QUOTE:END -->
 </div>
 
