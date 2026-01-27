@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>吾尝终日不食，终夜不寝，以思无益，不如学也。 —— 孔子 《论语》</i>
+  <i>不要说我们一无所有，我们要做天下的主人！ —— 欧仁·鲍狄埃 《国际歌》</i>
   <!-- QUOTE:END -->
 </div>
 
