@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>不要说我们一无所有，我们要做天下的主人！ —— 欧仁·鲍狄埃 《国际歌》</i>
+  <i>一本书上每多一个公式，就会减少一半读者。 —— 霍金 《名人名言》</i>
   <!-- QUOTE:END -->
 </div>
 
