@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>一本书上每多一个公式，就会减少一半读者。 —— 霍金 《名人名言》</i>
+  <i>东边日出西边雨，道是无晴却有晴。 —— 刘禹锡 《竹枝词二首·其一》</i>
   <!-- QUOTE:END -->
 </div>
 
