@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>东边日出西边雨，道是无晴却有晴。 —— 刘禹锡 《竹枝词二首·其一》</i>
+  <i>红泪偷垂，满眼春风百事非。 —— 纳兰性德 《采桑子·当时错》</i>
   <!-- QUOTE:END -->
 </div>
 
