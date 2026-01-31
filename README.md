@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>红泪偷垂，满眼春风百事非。 —— 纳兰性德 《采桑子·当时错》</i>
+  <i>永远年轻，永远热泪盈眶。 —— Jack Kerouac 《达摩流浪者》</i>
   <!-- QUOTE:END -->
 </div>
 
