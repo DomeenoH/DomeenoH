@@ -129,7 +129,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>永远年轻，永远热泪盈眶。 —— Jack Kerouac 《达摩流浪者》</i>
+  <i>勇者愤怒，抽刃向更强者；怯者愤怒，却抽刃向更弱者。 —— 鲁迅 《华盖集·杂感》</i>
   <!-- QUOTE:END -->
 </div>
 
