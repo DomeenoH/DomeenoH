@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>天涯地角有穷时，只有相思无尽处。 —— 晏殊 《玉楼春·春恨》</i>
+  <i>我们的时代还没到来，有的人死后方生。 —— 尼采 《在世纪的转折点上》</i>
   <!-- QUOTE:END -->
 </div>
 
