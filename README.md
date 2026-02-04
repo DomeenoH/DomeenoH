@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我们的时代还没到来，有的人死后方生。 —— 尼采 《在世纪的转折点上》</i>
+  <i>每一个不曾起舞的日子，都是对生命的辜负。 —— 尼采 《尼采》</i>
   <!-- QUOTE:END -->
 </div>
 
