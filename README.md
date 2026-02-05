@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>每一个不曾起舞的日子，都是对生命的辜负。 —— 尼采 《尼采》</i>
+  <i>未经审视的人生是不值得过的。 —— 苏格拉底 《苏格拉底》</i>
   <!-- QUOTE:END -->
 </div>
 
