@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>未经审视的人生是不值得过的。 —— 苏格拉底 《苏格拉底》</i>
+  <i>你一直相信的事，也让我相信吧。活着，是件美好的事。 —— 《Angle Beats》</i>
   <!-- QUOTE:END -->
 </div>
 
