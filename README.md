@@ -123,7 +123,7 @@ TOML                     1 hr 6 mins         ██░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>你一直相信的事，也让我相信吧。活着，是件美好的事。 —— 《Angle Beats》</i>
+  <i>告诉我，神会流血吗？——神不会，但你会。 —— Herobrine 《烦人的村民》</i>
   <!-- QUOTE:END -->
 </div>
 
