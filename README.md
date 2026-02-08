@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>告诉我，神会流血吗？——神不会，但你会。 —— Herobrine 《烦人的村民》</i>
+  <i>每一个不曾起舞的日子，都是对生命的辜负。 —— 尼采 《尼采》</i>
   <!-- QUOTE:END -->
 </div>
 
