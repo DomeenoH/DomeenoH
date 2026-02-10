@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我们永远无法还清欠下的，只要错了，就是错了永远无法弥补。 —— 灵婆 《大鱼海棠》</i>
+  <i>为你，千千万万遍。 —— 《追风筝的人》</i>
   <!-- QUOTE:END -->
 </div>
 
