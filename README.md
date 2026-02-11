@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>为你，千千万万遍。 —— 《追风筝的人》</i>
+  <i>最是人间留不住，朱颜辞镜花辞树。 —— 王国维 《蝶恋花·阅尽天涯离别苦》</i>
   <!-- QUOTE:END -->
 </div>
 
