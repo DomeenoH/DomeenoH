@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>这个天地，我来过，我奋战过，我深爱过，我不在乎结局。 —— 《悟空传》</i>
+  <i>月落乌啼霜满天，江枫渔火对愁眠。 —— 张继 《枫桥夜泊 / 夜泊枫江》</i>
   <!-- QUOTE:END -->
 </div>
 
