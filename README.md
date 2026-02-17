@@ -125,7 +125,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>知识有两种，一种是你知道的，一种是你知道在哪里能找到的！ —— 《塞缪尔·约翰逊》</i>
+  <i>海水梦悠悠，君愁我亦愁。 —— 佚名 《西洲曲》</i>
   <!-- QUOTE:END -->
 </div>
 
