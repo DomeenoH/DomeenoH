@@ -125,7 +125,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>海水梦悠悠，君愁我亦愁。 —— 佚名 《西洲曲》</i>
+  <i>如果命运是一条孤独的河流，谁会是你灵魂的摆渡人？ —— 《摆渡人》</i>
   <!-- QUOTE:END -->
 </div>
 
