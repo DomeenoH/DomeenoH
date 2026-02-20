@@ -125,7 +125,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>谎言重复一千遍就成了真理。 —— 戈培尔 《纳粹德国宣传部长》</i>
+  <i>大多数人到死都没有向尘世之外瞥一眼。 —— 《三体》</i>
   <!-- QUOTE:END -->
 </div>
 
