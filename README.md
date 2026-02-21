@@ -127,7 +127,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>大多数人到死都没有向尘世之外瞥一眼。 —— 《三体》</i>
+  <i>有志者，事竟成。 —— 《后汉书·耿弇传》</i>
   <!-- QUOTE:END -->
 </div>
 
