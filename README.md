@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>有志者，事竟成。 —— 《后汉书·耿弇传》</i>
+  <i>无产阶级在这个革命中失去的只是锁链，他获得的将是整个世界。 —— 马克思&恩格斯 《共产党宣言》</i>
   <!-- QUOTE:END -->
 </div>
 
