@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>离离原上草，一岁一枯荣。 —— 白居易 《草 / 赋得古原草送别》</i>
+  <i>山不在高，有仙则名。水不在深，有龙则灵。 —— 刘禹锡 《陋室铭》</i>
   <!-- QUOTE:END -->
 </div>
 
