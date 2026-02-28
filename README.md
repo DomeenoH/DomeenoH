@@ -129,7 +129,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>批判的武器当然不能代替武器的批判。 —— 马克思 《〈黑格尔法哲学批判〉导言》</i>
+  <i>物质决定意识，意识反作用于物质 —— 《唯物主义哲学》</i>
   <!-- QUOTE:END -->
 </div>
 
