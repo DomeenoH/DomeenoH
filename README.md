@@ -72,15 +72,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-644%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-170.18%20thousand%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-0%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
-**我是夜猫 🦉** 
+**我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     227 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-🌆 白天                     521 commits         █████████░░░░░░░░░░░░░░░░   34.03 % 
-🌃 傍晚                     646 commits         ███████████░░░░░░░░░░░░░░   42.19 % 
-🌙 晚上                     137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+🌞 早晨                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 白天                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 傍晚                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -93,20 +93,14 @@
 本周没有记录到任何活动
 ```
 
-**我最常使用 JavaScript** 
-
 ```text
-JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-HTML                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+
 ```
 
 
 
 
- Last Updated on 26/06/2026 08:42:41 UTC
+ Last Updated on 26/06/2026 08:43:06 UTC
 <!--END_SECTION:waka-->
 
 ### ✍️ Latest Blog Posts
