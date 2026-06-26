@@ -119,7 +119,7 @@
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>任何一件事都具有两面性。 —— 《弗拉基米尔·伊里奇·列宁》</i>
+  <i>我从未让你们骄傲，你们却待我如宝。 —— 《Az殇芯的chx》</i>
   <!-- QUOTE:END -->
 </div>
 
