@@ -119,7 +119,7 @@
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我从未让你们骄傲，你们却待我如宝。 —— 《Az殇芯的chx》</i>
+  <i>从认识你，到和你性命相连，我从未后悔过。 —— 椿 《大鱼海棠》</i>
   <!-- QUOTE:END -->
 </div>
 
