@@ -106,10 +106,10 @@
 ### ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [我一开始只是想做一辆小狗咖啡车](https://blog.dominoh.com/3427790584.html)
-- [也许我只是个 Prompt 工程师：被 AI 拖着走的咖啡车开发实录](https://blog.dominoh.com/1ff6f00f.html)
-- [容纳世界的噪音](https://blog.dominoh.com/68859030.html)
-- [在幸福的边缘长大：我是父母爱情的“旁观者”](https://blog.dominoh.com/94dbfc8f.html)
 - [像猫一样相爱：论高独立人格的舒适区](https://blog.dominoh.com/2dd7928.html)
+- [【杂谈】一万块的瓜我吃不下去，因为排版实在太烂了](https://blog.dominoh.com/860a5c5e.html)
+- [把“虚假胜利”揉碎了：那一口糖，本质是给观众喂的幻觉](https://blog.dominoh.com/be8a881b.html)
+- [南京七月，床塌了，然后生活给了我一张高价罚单](https://blog.dominoh.com/469cc894.html)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
