@@ -72,15 +72,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-0%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-43.32%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
-**我是早鸟 🐤** 
+**我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 白天                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 傍晚                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 早晨                     3879 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+🌆 白天                     12433 commits       ████████░░░░░░░░░░░░░░░░░   31.63 % 
+🌃 傍晚                     17086 commits       ███████████░░░░░░░░░░░░░░   43.47 % 
+🌙 晚上                     5910 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
 ```
 
 
@@ -90,21 +90,27 @@
 🕑︎ 时区: Asia/Hong_Kong
 
 💬 编程语言: 
-TypeScript               5 hrs 17 mins       █████████████████░░░░░░░░   68.41 % 
-YAML                     1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-SQL                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+YAML                     1 hr 54 mins        █████████████░░░░░░░░░░░░   52.26 % 
+TypeScript               1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
+
+**我最常使用 JavaScript** 
 
 ```text
-
+JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+HTML                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
 
 
- Last Updated on 04/07/2026 10:27:26 UTC
+ Last Updated on 05/07/2026 04:45:07 UTC
 <!--END_SECTION:waka-->
 
 ### ✍️ Latest Blog Posts
