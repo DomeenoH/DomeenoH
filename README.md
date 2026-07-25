@@ -125,7 +125,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>武侯祠堂常邻近，一体君臣祭祀同。 —— 杜甫 《咏怀古迹五首·其四》</i>
+  <i>其实我对混合咖啡还是很有自信的 —— 《珈百璃的堕落》</i>
   <!-- QUOTE:END -->
 </div>
 
