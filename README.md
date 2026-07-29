@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>一点星光，在心上就能反射出太阳。 —— 学而思 《星光效应》</i>
+  <i>春有百花秋有月，夏有凉风冬有雪。 —— 释绍昙 《颂古五十五首其一》</i>
   <!-- QUOTE:END -->
 </div>
 
