@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>春有百花秋有月，夏有凉风冬有雪。 —— 释绍昙 《颂古五十五首其一》</i>
+  <i>告白当天就要H什么的，真是没办法的男人呢。 —— 《高坂桐乃》</i>
   <!-- QUOTE:END -->
 </div>
 
