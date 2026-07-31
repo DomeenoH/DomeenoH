@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>告白当天就要H什么的，真是没办法的男人呢。 —— 《高坂桐乃》</i>
+  <i>你等着我！ —— 爱德华.艾力克 《钢之炼金术师2009》</i>
   <!-- QUOTE:END -->
 </div>
 
