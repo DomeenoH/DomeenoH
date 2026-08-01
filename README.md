@@ -101,11 +101,11 @@
 No AI Coding Activity Tracked This Week
 ```
 
-**我最常使用 TypeScript** 
+**我最常使用 JavaScript** 
 
 ```text
-TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
 JavaScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 HTML                     9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
@@ -114,7 +114,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 17:15:34 UTC
+ Last Updated on 01/08/2026 17:25:24 UTC
 <!--END_SECTION:waka-->
 
 ### ✍️ Latest Blog Posts
