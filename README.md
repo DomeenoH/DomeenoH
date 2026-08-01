@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>你等着我！ —— 爱德华.艾力克 《钢之炼金术师2009》</i>
+  <i>墙外行人，墙里佳人笑。 —— 苏轼 《蝶恋花·春景》</i>
   <!-- QUOTE:END -->
 </div>
 
