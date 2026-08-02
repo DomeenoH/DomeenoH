@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>墙外行人，墙里佳人笑。 —— 苏轼 《蝶恋花·春景》</i>
+  <i>歌未竟，东方白。 —— 毛泽东 《贺新郎•读史》</i>
   <!-- QUOTE:END -->
 </div>
 
