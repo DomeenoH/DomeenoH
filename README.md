@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>歌未竟，东方白。 —— 毛泽东 《贺新郎•读史》</i>
+  <i>浮云一别后，流水十年间。 —— 韦应物 《淮上喜会梁川故人 / 淮上喜会梁州故人》</i>
   <!-- QUOTE:END -->
 </div>
 
