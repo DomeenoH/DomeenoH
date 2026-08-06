@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>老是低着头，幸福可是会离你而去的喔。 —— 《我们的仙境》</i>
+  <i>爱欲于人，犹如执炬，逆风而行，必有烧手之患。 —— 《四十二章经》</i>
   <!-- QUOTE:END -->
 </div>
 
