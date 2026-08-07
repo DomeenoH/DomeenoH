@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>爱欲于人，犹如执炬，逆风而行，必有烧手之患。 —— 《四十二章经》</i>
+  <i>没有爱上你，只是聊了太多罢了。 —— 漩涡鸣人 《火影忍者》</i>
   <!-- QUOTE:END -->
 </div>
 
