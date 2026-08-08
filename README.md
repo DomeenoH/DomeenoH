@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>没有爱上你，只是聊了太多罢了。 —— 漩涡鸣人 《火影忍者》</i>
+  <i>但使龙城飞将在，不教胡马度阴山。 —— 王昌龄 《出塞二首》</i>
   <!-- QUOTE:END -->
 </div>
 
