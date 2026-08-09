@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>但使龙城飞将在，不教胡马度阴山。 —— 王昌龄 《出塞二首》</i>
+  <i>语言的隔阂，本质上是一个人——信息，知识，视野，圈子的隔阂。 —— 《网络》</i>
   <!-- QUOTE:END -->
 </div>
 
