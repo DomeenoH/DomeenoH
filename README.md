@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>曲则全，枉则直，洼则盈，敝则新。 —— 老子 《道德经》</i>
+  <i>胜比昭君重出世，犹如西子再还魂。 —— 佚名 《说唐合传之说唐后传》</i>
   <!-- QUOTE:END -->
 </div>
 
