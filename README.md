@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>胜比昭君重出世，犹如西子再还魂。 —— 佚名 《说唐合传之说唐后传》</i>
+  <i>但使龙城飞将在，不教胡马度阴山。 —— 王昌龄 《出塞二首》</i>
   <!-- QUOTE:END -->
 </div>
 
