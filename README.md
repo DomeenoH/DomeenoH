@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>若待上林花似锦，出门俱是看花人。 —— 杨巨源 《城东早春》</i>
+  <i>Time waits for no one. —— 《穿越时空的少女》</i>
   <!-- QUOTE:END -->
 </div>
 
