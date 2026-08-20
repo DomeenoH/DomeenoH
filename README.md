@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>Time waits for no one. —— 《穿越时空的少女》</i>
+  <i>智慧只能使人免于无知，不能使人免于痛苦。 —— 《洞穴的囚徒》</i>
   <!-- QUOTE:END -->
 </div>
 
