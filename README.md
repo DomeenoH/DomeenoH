@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>智慧只能使人免于无知，不能使人免于痛苦。 —— 《洞穴的囚徒》</i>
+  <i>欲把相思说似谁，浅情人不知。 —— 晏几道 《长相思·长相思》</i>
   <!-- QUOTE:END -->
 </div>
 
