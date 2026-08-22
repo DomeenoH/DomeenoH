@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>欲把相思说似谁，浅情人不知。 —— 晏几道 《长相思·长相思》</i>
+  <i>取法于上，仅得为中；取法于中，故为其下。 —— 《每日一习话》</i>
   <!-- QUOTE:END -->
 </div>
 
