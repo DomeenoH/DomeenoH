@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>取法于上，仅得为中；取法于中，故为其下。 —— 《每日一习话》</i>
+  <i>世界上所有的不利情况都是因为当事者的能力不足造成的 —— 《东京喰种》</i>
   <!-- QUOTE:END -->
 </div>
 
