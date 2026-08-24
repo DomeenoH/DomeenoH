@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>世界上所有的不利情况都是因为当事者的能力不足造成的 —— 《东京喰种》</i>
+  <i>拿着刀并且可以让人们变得幸福的只有料理人。 —— 《假面骑士kabuto》</i>
   <!-- QUOTE:END -->
 </div>
 
