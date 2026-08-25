@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>拿着刀并且可以让人们变得幸福的只有料理人。 —— 《假面骑士kabuto》</i>
+  <i>一个人吃饭，太寂寞了。 —— 《无头骑士异闻录》</i>
   <!-- QUOTE:END -->
 </div>
 
