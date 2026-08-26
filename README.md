@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>一个人吃饭，太寂寞了。 —— 《无头骑士异闻录》</i>
+  <i>接天莲叶无穷碧，映日荷花别样红。 —— 杨万里 《晓出净慈寺送林子方》</i>
   <!-- QUOTE:END -->
 </div>
 
