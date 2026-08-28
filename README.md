@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>在隆冬，我终于明白，我身上有一个不可战胜的夏天。 —— 加缪 《重返蒂帕萨》</i>
+  <i>树大必有枯枝，人多必有白痴。 —— 《谢谢你！坏运》</i>
   <!-- QUOTE:END -->
 </div>
 
