@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>树大必有枯枝，人多必有白痴。 —— 《谢谢你！坏运》</i>
+  <i>海内存知己，天涯若比邻。 —— 王勃 《送杜少府之任蜀州 / 送杜少府之任蜀川》</i>
   <!-- QUOTE:END -->
 </div>
 
