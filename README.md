@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>海内存知己，天涯若比邻。 —— 王勃 《送杜少府之任蜀州 / 送杜少府之任蜀川》</i>
+  <i>但愿人长久，千里共婵娟。 —— 苏轼 《水调歌头·丙辰中秋》</i>
   <!-- QUOTE:END -->
 </div>
 
