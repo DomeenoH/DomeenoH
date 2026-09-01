@@ -133,7 +133,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我该在哪里停留？我问我自己。 —— CCF 《追忆》</i>
+  <i>从长远看，我们都已经死了。 —— 凯恩斯 《货币改革论》</i>
   <!-- QUOTE:END -->
 </div>
 
