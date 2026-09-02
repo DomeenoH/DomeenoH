@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>从长远看，我们都已经死了。 —— 凯恩斯 《货币改革论》</i>
+  <i>努力可是要默默藏起来的。 —— 《Re：从零开始的异世界生活》</i>
   <!-- QUOTE:END -->
 </div>
 
