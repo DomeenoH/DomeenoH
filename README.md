@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>努力可是要默默藏起来的。 —— 《Re：从零开始的异世界生活》</i>
+  <i>弱冠年华最是好，轻蹄快马，看尽天涯花。 —— 肉包不吃肉 《二哈和他的白猫师尊》</i>
   <!-- QUOTE:END -->
 </div>
 
