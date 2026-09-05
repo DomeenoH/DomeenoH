@@ -127,7 +127,7 @@ No AI Coding Activity Tracked This Week
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>浮世三千，吾有三爱，日月与卿，日为朝，月为暮，卿为朝朝暮暮。 —— 泰戈尔 《飞鸟集》</i>
+  <i>牛高达可不只是好看而已! —— 《机动战士高达》</i>
   <!-- QUOTE:END -->
 </div>
 
