@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>牛高达可不只是好看而已! —— 《机动战士高达》</i>
+  <i>集中一点，登峰造极！ —— 《鬼灭之刃》</i>
   <!-- QUOTE:END -->
 </div>
 
