@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>集中一点，登峰造极！ —— 《鬼灭之刃》</i>
+  <i>宇宙中，你再快都有比你快的，你再慢又有比你慢的。 —— 刘慈欣 《三体II: 黑暗森林》</i>
   <!-- QUOTE:END -->
 </div>
 
