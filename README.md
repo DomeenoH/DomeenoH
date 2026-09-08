@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>宇宙中，你再快都有比你快的，你再慢又有比你慢的。 —— 刘慈欣 《三体II: 黑暗森林》</i>
+  <i>因为喜欢你，所以想继续相信下去。 —— 《空之境界》</i>
   <!-- QUOTE:END -->
 </div>
 
