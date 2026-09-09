@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>因为喜欢你，所以想继续相信下去。 —— 《空之境界》</i>
+  <i>我们开始一起攀登，这长长的，长长的坡道。 —— 《Clannad》</i>
   <!-- QUOTE:END -->
 </div>
 
