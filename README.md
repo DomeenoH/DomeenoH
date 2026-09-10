@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我们开始一起攀登，这长长的，长长的坡道。 —— 《Clannad》</i>
+  <i>此情无计可消除，才下眉头，却上心头。 —— 李清照 《一剪梅·红藕香残玉簟秋》</i>
   <!-- QUOTE:END -->
 </div>
 
