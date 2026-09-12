@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>没有什么背叛，只不过是忠诚过期了而已。 —— 帕洛斯 《凹凸世界》</i>
+  <i>三十年河东，三十年河西 —— 《儒林外史》</i>
   <!-- QUOTE:END -->
 </div>
 
