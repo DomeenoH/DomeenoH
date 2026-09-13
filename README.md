@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>三十年河东，三十年河西 —— 《儒林外史》</i>
+  <i>这也算是一条路啊，或许这样会更加幸福一些。 —— 《半妖的夜叉姬》</i>
   <!-- QUOTE:END -->
 </div>
 
