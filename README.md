@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>死亡不属于工人阶级！ —— 弗拉基米尔·伊里奇·列宁 《列宁全集》</i>
+  <i>能够用自己喜欢的工作维持生活是件很幸福的事情 —— 《白箱》</i>
   <!-- QUOTE:END -->
 </div>
 
