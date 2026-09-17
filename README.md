@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>能够用自己喜欢的工作维持生活是件很幸福的事情 —— 《白箱》</i>
+  <i>为者常成，行者常至。 —— 《晏子春秋·内篇杂下》</i>
   <!-- QUOTE:END -->
 </div>
 
