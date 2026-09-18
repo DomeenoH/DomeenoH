@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>为者常成，行者常至。 —— 《晏子春秋·内篇杂下》</i>
+  <i>你再怎么称赞我，我也不会高兴的，你这个混蛋~ —— 《海贼王》</i>
   <!-- QUOTE:END -->
 </div>
 
