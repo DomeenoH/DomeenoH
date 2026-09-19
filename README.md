@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>你再怎么称赞我，我也不会高兴的，你这个混蛋~ —— 《海贼王》</i>
+  <i>风啊，你还要吹到何时...... —— 《卡尔·冯·沃尔里奇》</i>
   <!-- QUOTE:END -->
 </div>
 
