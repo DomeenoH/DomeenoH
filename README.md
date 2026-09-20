@@ -74,15 +74,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-537%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-0%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.70%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
-**我是早鸟 🐤** 
+**我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 白天                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 傍晚                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 晚上                     0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 早晨                     982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+🌆 白天                     2176 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌃 傍晚                     2757 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌙 晚上                     1048 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 ```
 
 
@@ -101,14 +101,20 @@
 No AI Coding Activity Tracked This Week
 ```
 
-```text
+**我最常使用 TypeScript** 
 
+```text
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 20/09/2026 06:06:03 UTC
+ Last Updated on 20/09/2026 06:09:41 UTC
 <!--END_SECTION:waka-->
 
 ### ✍️ Latest Blog Posts
