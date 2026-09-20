@@ -74,15 +74,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-537%20hrs%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-8.70%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/%E4%BB%8E%E3%80%8CHello%20World%E3%80%8D%E8%B5%B7%E6%88%91%E5%B7%B2%E7%BB%8F%E5%86%99%E4%BA%86-26.21%20million%20%E8%A1%8C%E4%BB%A3%E7%A0%81-blue?style=flat)
 
 **我是夜猫 🦉** 
 
 ```text
-🌞 早晨                     982 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-🌆 白天                     2176 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
-🌃 傍晚                     2757 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
-🌙 晚上                     1048 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌞 早晨                     1065 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+🌆 白天                     2919 commits        ████████░░░░░░░░░░░░░░░░░   32.50 % 
+🌃 傍晚                     3474 commits        ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌙 晚上                     1523 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
 ```
 
 
@@ -101,20 +101,20 @@
 No AI Coding Activity Tracked This Week
 ```
 
-**我最常使用 TypeScript** 
+**我最常使用 JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               16 repos            ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 20/09/2026 06:09:41 UTC
+ Last Updated on 20/09/2026 06:14:13 UTC
 <!--END_SECTION:waka-->
 
 ### ✍️ Latest Blog Posts
