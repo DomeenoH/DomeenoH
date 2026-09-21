@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>一声梧叶一声秋，一点芭蕉一点愁，三更归梦三更后。 —— 徐再思 《水仙子·夜雨》</i>
+  <i>月出于东山之上，徘徊于斗牛之间。 —— 苏轼 《前赤壁赋》</i>
   <!-- QUOTE:END -->
 </div>
 
