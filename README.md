@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>月出于东山之上，徘徊于斗牛之间。 —— 苏轼 《前赤壁赋》</i>
+  <i>海纳百川，有容乃大；壁立千仞，无欲则刚。 —— 林则徐 《越华书院对联》</i>
   <!-- QUOTE:END -->
 </div>
 
