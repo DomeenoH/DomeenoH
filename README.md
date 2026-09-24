@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>因为我们都是寂寞的生物，所以才会变得如此众多吧。 —— 《相合之物》</i>
+  <i>谁共我，醉明月。 —— 辛弃疾 《贺新郎·别茂嘉十二弟》</i>
   <!-- QUOTE:END -->
 </div>
 
