@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>谁共我，醉明月。 —— 辛弃疾 《贺新郎·别茂嘉十二弟》</i>
+  <i>真的猛士，敢于直面惨淡的人生，敢于正视淋漓的鲜血。 —— 鲁迅 《记念刘和珍君》</i>
   <!-- QUOTE:END -->
 </div>
 
