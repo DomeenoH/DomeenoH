@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>本以高难饱，徒劳恨费声。 —— 李商隐 《蝉》</i>
+  <i>但是我，我没有眼泪。宇宙，宇宙也没有眼泪呀！眼泪有什么用啊？ —— 郭沫若 《雷电颂》</i>
   <!-- QUOTE:END -->
 </div>
 
