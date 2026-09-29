@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>赢得了时间就是赢得了一切。 —— 《弗拉基米尔·伊里奇·列宁》</i>
+  <i>失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。 —— 《TOUCH》</i>
   <!-- QUOTE:END -->
 </div>
 
