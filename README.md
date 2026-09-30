@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>失去的东西虽然拿不回来，但是，忘记的事情是可以想起来的。 —— 《TOUCH》</i>
+  <i>爱总在阳光里，即使看不见，即使摸不到，也在你身旁。 —— TRUE 《Letter》</i>
   <!-- QUOTE:END -->
 </div>
 
