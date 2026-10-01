@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>爱总在阳光里，即使看不见，即使摸不到，也在你身旁。 —— TRUE 《Letter》</i>
+  <i>奇迹不是免费的，如果你祈求了希望，也会散播出同等的绝望。 —— 《魔法少女小圆》</i>
   <!-- QUOTE:END -->
 </div>
 
