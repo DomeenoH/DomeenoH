@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>目标是以科学的力量凌驾于超能力之上，为了伯伦希尔的荣耀。 —— 《小绿和小蓝》</i>
+  <i>声起立华乐独奏，曲末音无心结弦。 —— 《Angel Beats!》</i>
   <!-- QUOTE:END -->
 </div>
 
