@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>声起立华乐独奏，曲末音无心结弦。 —— 《Angel Beats!》</i>
+  <i>博学而笃志，切问而近思。 —— 《论语·子张》</i>
   <!-- QUOTE:END -->
 </div>
 
