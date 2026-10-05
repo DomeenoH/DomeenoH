@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>博学而笃志，切问而近思。 —— 《论语·子张》</i>
+  <i>苦难是生命的防沉迷系统。 —— 《弱智吧》</i>
   <!-- QUOTE:END -->
 </div>
 
