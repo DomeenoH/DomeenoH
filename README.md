@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>苦难是生命的防沉迷系统。 —— 《弱智吧》</i>
+  <i>现在人们知道，没有不散的宴席，一切都有个尽头。 —— 刘慈欣 《三体》</i>
   <!-- QUOTE:END -->
 </div>
 
