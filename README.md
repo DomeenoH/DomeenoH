@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>现在人们知道，没有不散的宴席，一切都有个尽头。 —— 刘慈欣 《三体》</i>
+  <i>想变强却没有变强的决心，想保护却没有保护的勇气。 —— 月影Yancie 《天灾之下》</i>
   <!-- QUOTE:END -->
 </div>
 
