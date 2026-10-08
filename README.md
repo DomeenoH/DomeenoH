@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>想变强却没有变强的决心，想保护却没有保护的勇气。 —— 月影Yancie 《天灾之下》</i>
+  <i>请君莫奏前朝曲，听唱新翻杨柳枝。 —— 刘禹锡 《杨柳枝词九首·其一》</i>
   <!-- QUOTE:END -->
 </div>
 
