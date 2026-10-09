@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>请君莫奏前朝曲，听唱新翻杨柳枝。 —— 刘禹锡 《杨柳枝词九首·其一》</i>
+  <i>叶え！私たちの夢ー。 —— 《ラブライブ！》</i>
   <!-- QUOTE:END -->
 </div>
 
