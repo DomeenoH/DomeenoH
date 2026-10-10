@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>叶え！私たちの夢ー。 —— 《ラブライブ！》</i>
+  <i>盈盈一水间，脉脉不得语。 —— 佚名 《迢迢牵牛星》</i>
   <!-- QUOTE:END -->
 </div>
 
