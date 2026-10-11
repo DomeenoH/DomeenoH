@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>盈盈一水间，脉脉不得语。 —— 佚名 《迢迢牵牛星》</i>
+  <i>丢掉幻想，准备斗争。 —— 毛泽东 《毛泽东选集》</i>
   <!-- QUOTE:END -->
 </div>
 
