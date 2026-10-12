@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>丢掉幻想，准备斗争。 —— 毛泽东 《毛泽东选集》</i>
+  <i>男人至死都是少年 —— 《银魂》</i>
   <!-- QUOTE:END -->
 </div>
 
