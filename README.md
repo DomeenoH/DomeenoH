@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>男人至死都是少年 —— 《银魂》</i>
+  <i>思君如流水，何有穷已时。 —— 徐干 《室思》</i>
   <!-- QUOTE:END -->
 </div>
 
