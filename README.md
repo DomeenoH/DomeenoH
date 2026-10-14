@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>思君如流水，何有穷已时。 —— 徐干 《室思》</i>
+  <i>我的东西难道不可随我的意思用吗？ —— 《马太福音20:15》</i>
   <!-- QUOTE:END -->
 </div>
 
