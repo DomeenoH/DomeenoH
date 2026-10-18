@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>但哲学的真理必须是含有个人承诺的真理。 —— 张汝伦 《现代西方哲学十五讲》</i>
+  <i>我终不能改变那个开始，何不忘了那个结局呢。 —— 《悟空传》</i>
   <!-- QUOTE:END -->
 </div>
 
