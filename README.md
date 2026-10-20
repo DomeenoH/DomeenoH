@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>既然今天是昨天，那么睡到明天就好。 —— 《青春猪头少年不会梦到兔女郎学姐》</i>
+  <i>离开了对人的关怀，教育分文不值。 —— 《从良老师》</i>
   <!-- QUOTE:END -->
 </div>
 
