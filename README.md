@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>离开了对人的关怀，教育分文不值。 —— 《从良老师》</i>
+  <i>我除了投三分，就什么都没有了…… —— 《灌篮高手》</i>
   <!-- QUOTE:END -->
 </div>
 
