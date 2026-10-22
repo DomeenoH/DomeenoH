@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我除了投三分，就什么都没有了…… —— 《灌篮高手》</i>
+  <i>桃之夭夭，灼灼其华。 —— 《诗经·周南·桃夭》</i>
   <!-- QUOTE:END -->
 </div>
 
