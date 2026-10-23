@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>桃之夭夭，灼灼其华。 —— 《诗经·周南·桃夭》</i>
+  <i>西塞山前白鹭飞，桃花流水鳜鱼肥。 —— 张志和 《渔歌子·西塞山前白鹭飞》</i>
   <!-- QUOTE:END -->
 </div>
 
