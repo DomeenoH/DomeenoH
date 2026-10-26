@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>谁不和我们一起就是反对我们，中立的人最危险。 —— 《弗拉基米尔·伊里奇·列宁》</i>
+  <i>キラキラ☆ドキドキ —— 《戸山香澄》</i>
   <!-- QUOTE:END -->
 </div>
 
