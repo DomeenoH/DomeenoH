@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>キラキラ☆ドキドキ —— 《戸山香澄》</i>
+  <i>我想你们的努力一定会有回报的 —— 《龙与虎》</i>
   <!-- QUOTE:END -->
 </div>
 
