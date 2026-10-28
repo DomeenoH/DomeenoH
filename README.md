@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我想你们的努力一定会有回报的 —— 《龙与虎》</i>
+  <i>已有的事，后必再有；已行的事，后必再行。日光之下，并无新事。 —— 《圣经》</i>
   <!-- QUOTE:END -->
 </div>
 
