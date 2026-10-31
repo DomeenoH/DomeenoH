@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>仰天大笑出门去，我辈岂是蓬蒿人。 —— 李白 《南陵别儿童入京》</i>
+  <i>我要以带血的手和你们一一拥抱，因为一个民族已经起来。 —— 穆旦 《赞美》</i>
   <!-- QUOTE:END -->
 </div>
 
