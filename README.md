@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>在乐园里的人不会梦想另辟乐园。 —— 老舍 《住的梦》</i>
+  <i>衡量人生价值的并不是生命的长度，而是生命的宽度。 —— 雷欧幻像 《查理九世》</i>
   <!-- QUOTE:END -->
 </div>
 
