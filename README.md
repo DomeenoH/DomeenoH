@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>衡量人生价值的并不是生命的长度，而是生命的宽度。 —— 雷欧幻像 《查理九世》</i>
+  <i>但使龙城飞将在，不教胡马度阴山。 —— 王昌龄 《出塞二首》</i>
   <!-- QUOTE:END -->
 </div>
 
