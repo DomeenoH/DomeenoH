@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>但使龙城飞将在，不教胡马度阴山。 —— 王昌龄 《出塞二首》</i>
+  <i>当你肩负警徽开枪时，法律条文与实际正义，都在你扳机之下。 —— 淮上 《破云》</i>
   <!-- QUOTE:END -->
 </div>
 
