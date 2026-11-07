@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>当你肩负警徽开枪时，法律条文与实际正义，都在你扳机之下。 —— 淮上 《破云》</i>
+  <i>星星之火，可以燎原。 —— 毛泽东 《毛主席语录》</i>
   <!-- QUOTE:END -->
 </div>
 
