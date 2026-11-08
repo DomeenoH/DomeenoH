@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>星星之火，可以燎原。 —— 毛泽东 《毛主席语录》</i>
+  <i>世界历史的最后一个阶段是它的悲剧。 —— 马克思 《黑格尔法哲学批判导言》</i>
   <!-- QUOTE:END -->
 </div>
 
