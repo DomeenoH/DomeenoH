@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>越是在夹缝看见可能性，就会变得越难以忍受离别吧。 —— 三秋缒 《义忆》</i>
+  <i>悲观的面对生命，乐观的面对生活。 —— 《张慧腾》</i>
   <!-- QUOTE:END -->
 </div>
 
