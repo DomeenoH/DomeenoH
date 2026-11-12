@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>悲观的面对生命，乐观的面对生活。 —— 《张慧腾》</i>
+  <i>迢迢牵牛星，皎皎河汉女。 —— 佚名 《迢迢牵牛星》</i>
   <!-- QUOTE:END -->
 </div>
 
