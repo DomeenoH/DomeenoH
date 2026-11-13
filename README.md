@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>迢迢牵牛星，皎皎河汉女。 —— 佚名 《迢迢牵牛星》</i>
+  <i>年华书写着故事，故事久存于心田。 —— 唐艺铭 《演讲》</i>
   <!-- QUOTE:END -->
 </div>
 
