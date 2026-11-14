@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>年华书写着故事，故事久存于心田。 —— 唐艺铭 《演讲》</i>
+  <i>君子不器。 —— 孔子 《论语·为政》</i>
   <!-- QUOTE:END -->
 </div>
 
