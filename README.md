@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>君子不器。 —— 孔子 《论语·为政》</i>
+  <i>愿你出走半生，归来仍是少年。 —— 孙衍 《愿你出走半生，归来仍是少年》</i>
   <!-- QUOTE:END -->
 </div>
 
