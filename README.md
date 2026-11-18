@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>一念放下，万般自在。 —— 弘一法师 《弘一法师》</i>
+  <i>这么好的一位少年，那么他喜欢着的少女，得是多好的姑娘啊？ —— 《陈平安》</i>
   <!-- QUOTE:END -->
 </div>
 
