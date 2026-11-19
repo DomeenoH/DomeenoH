@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>这么好的一位少年，那么他喜欢着的少女，得是多好的姑娘啊？ —— 《陈平安》</i>
+  <i>我本无意惹惊鸿，奈何惊鸿入我心。 —— 《人民日报》</i>
   <!-- QUOTE:END -->
 </div>
 
