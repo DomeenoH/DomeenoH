@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我本无意惹惊鸿，奈何惊鸿入我心。 —— 《人民日报》</i>
+  <i>爱欲于人，犹如执炬，逆风而行，必有烧手之患。 —— 《四十二章经》</i>
   <!-- QUOTE:END -->
 </div>
 
