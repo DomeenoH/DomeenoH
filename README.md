@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>我只知道一件事，那就是我什么都不知道。 —— 苏格拉底 《哲学的故事》</i>
+  <i>美术之为物，欲者不观，观者不欲。 —— 王国维 《美学三境》</i>
   <!-- QUOTE:END -->
 </div>
 
