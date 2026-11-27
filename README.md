@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>美术之为物，欲者不观，观者不欲。 —— 王国维 《美学三境》</i>
+  <i>该如何描述光，不过是穿透于指尖的朦胧和希望。 —— 佚名 《网络》</i>
   <!-- QUOTE:END -->
 </div>
 
