@@ -133,7 +133,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 <div align="center">
   <h3>🤔 Daily Dose</h3>
   <!-- QUOTE:START -->
-  <i>该如何描述光，不过是穿透于指尖的朦胧和希望。 —— 佚名 《网络》</i>
+  <i>什么叫忍者？学会忍耐的人就叫忍者。 —— 《哔哩哔哩》</i>
   <!-- QUOTE:END -->
 </div>
 
